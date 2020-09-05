@@ -20,7 +20,8 @@ npm run watch
 ```
 launch dist/index.html from your code editor
 
-The steps taken to create this starter app:
+### The steps taken to create this starter app
+if you would like to replicate the project in this repo, follow these steps:
 ```
 npm init -y
 npm install react react-dom
@@ -57,7 +58,7 @@ module.exports = {
 };
 ```
 
-dist/index.html:
+add the <body> of dist/index.html:
 ```
 <div id="root"></div>
 <script src="main.js"></script>
