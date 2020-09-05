@@ -1,7 +1,24 @@
 # React-Starter
 React Starter App - setup with webpack and babel
 
-### Basic React starter files.
+### To get started
+clone this repo:
+```
+git clone https://github.com/AlexanderHeo/React-Starter [new repo]
+```
+install npm dependencies:
+```
+npm install
+```
+run npm script to build webpack:
+```
+npm run build
+```
+or use this script to automate building:
+```
+npm run watch
+```
+launch dist/index.html from your code editor
 
 The steps taken to create this starter app:
 ```
@@ -61,22 +78,4 @@ ReactDOM.render(
   <ReactApp />,
   document.querySelector('#root')
 );
-
-### To get started
-clone this repo:
 ```
-git clone https://github.com/AlexanderHeo/React-Starter [new repo]
-```
-install npm dependencies:
-```
-npm install
-```
-run npm script to build webpack:
-```
-npm run build
-```
-or use this script to automate building:
-```
-npm run watch
-```
-launch dist/index.html from your code editor
