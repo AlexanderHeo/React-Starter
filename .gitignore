@@ -3,3 +3,5 @@
 .vscode/
 **/dist/*.js*
 **/server/public/*.js*
+debug.log
+**/src/components/debug.log
