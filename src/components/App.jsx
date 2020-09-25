@@ -9,6 +9,8 @@ class App extends Component {
         <h3>Setup:</h3>
         <div>babel loader</div>
         <div>css loader</div>
+        <div>file loader</div>
+        <div>url loader</div>
         <div>style loader</div>
         <div>styled components</div>
         <div>webpack</div>
